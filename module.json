@@ -1,0 +1,30 @@
+{
+  "id": "psychic-the-void-in-the-machine",
+  "title": "Psychic: The Void in the Machine",
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "14",
+    "verified": "14"
+  },
+  "description": "<p>Compendium containing the Psychic: The Void in the Machine from Path+ Playtest. </p>",
+  "flags": {
+    "canUpload": true
+  },
+  "packs": [
+    {
+      "name": "pack-1",
+      "label": "Psychic: The Void in the Machine",
+      "path": "packs/pack-1",
+      "type": "Item",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "pf2e",
+      "flags": {}
+    }
+  ],
+  "url": "https://github.com/Alexis-Arias/Psychic-The-Void-in-the-Machine-Concious-mind-playtest",
+  "manifest": "https://github.com/Alexis-Arias/Psychic-The-Void-in-the-Machine-Concious-mind-playtest/releases/latest/download/module.json",
+  "download": "https://github.com/Alexis-Arias/Psychic-The-Void-in-the-Machine-Concious-mind-playtest/releases/download/1.0.0/module.zip"
+}
